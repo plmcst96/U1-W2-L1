@@ -42,8 +42,8 @@ console.log(n3)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let subtraction = 4 - x
-console.log(subtraction)
+let x = 12
+console.log(x)
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
