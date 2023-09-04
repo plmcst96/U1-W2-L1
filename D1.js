@@ -34,7 +34,8 @@ console.log(firstName)
 /* SCRIVI QUI LA TUA RISPOSTA */
 let n1 = 12
 let n2 = 20
-console.log(n1 + n2)
+let n3 = 12 + 20
+console.log(n3)
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
