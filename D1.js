@@ -79,10 +79,7 @@ let name2 = "John"
 
 console.log(name1 === name2)
 
-// 1) Ho trovato questi due metodi: Primo
-if (name2 !== name1) console.log("true")
-else console.log("false")
-
-// 2) Secondo metod0
+console.log(name2 !== name1)
 
 console.log(name1.toLowerCase() === name2.toLowerCase())
+console.log(name2)
